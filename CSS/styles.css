@@ -1,7 +1,6 @@
 
 body {
     background-color:darkslategray;
-    text-align:center;
  }
 hr {
    border-style:none;
@@ -11,11 +10,11 @@ hr {
    border-width: 5px;
    width: 10%;
    height: 5%; 
-
+   text-align:center;
 }
 h1 {
     color: #191970;
-
+    text-align:center;
 }
 td {
     color: #191970;
